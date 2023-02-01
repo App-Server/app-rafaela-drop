@@ -1,0 +1,53 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;    
+}
+
+.container{
+    text-align: center;    ;
+}
+
+.text{
+    font-size: 20px;
+    font-weight: bold;
+}
+
+img{
+    border-radius: 50%;
+    width: 180px;    
+    
+}
+
+.vendedor{   
+    margin-left: 43%;    
+    margin-top: 20px;
+}
+
+table {
+    /* width: 400px; */
+    border-collapse: collapse;
+}
+
+td {
+    border: 1px solid rgb(161, 161, 161);
+    padding: 8px;
+}
+
+/* .navbar {
+    width: 100%;
+    height: 50px;
+    background-color: rgb(19, 18, 18);
+} */
+
+.container {
+   width: 40%;
+   margin-left: auto;
+   margin-right: auto;
+   margin-top: 20px;
+}
+
